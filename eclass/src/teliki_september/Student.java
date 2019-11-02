@@ -1,4 +1,4 @@
-package teliki_september;
+package eclass;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -25,7 +25,7 @@ import javax.sql.DataSource;
 import javax.xml.bind.DatatypeConverter;
 import java.security.MessageDigest;
 
-import teliki_september.sql;
+import eclass.sql;
 
 
 /**
