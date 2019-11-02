@@ -1,4 +1,4 @@
-package teliki_september;
+package eclass;
 
 public class sql {
 	
